@@ -1,0 +1,4 @@
+/venv
+.env
+/price-data
+archived-requirements.txt
